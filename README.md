@@ -54,3 +54,8 @@ To view changes made to `styles.css` or `app.js`, refresh the page in the browse
 
 Feel free to customize the content in `index.html` or add more sections—the JavaScript dynamically adapts to include any additional sections you add.
 
+Future Improvements
+Section Animations: Add animations for sections as they enter the viewport to enhance visual appeal.
+Scroll Progress Indicator: Implement a progress bar to show how much of the page has been scrolled.
+Back-to-Top Button: Include a button that appears when users scroll down, enabling them to quickly return to the top.
+Dark Mode Toggle: Add a dark mode option for better accessibility and user preference.
