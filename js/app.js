@@ -78,7 +78,6 @@ buildNav();
 
 // Add class 'active' to section when near top of viewport
 
-//  class 'active' to section when near top of viewport
 function setActiveSection() {
     sections.forEach(section => {
       const link = document.querySelector(`a[href="#${section.id}"]`);
