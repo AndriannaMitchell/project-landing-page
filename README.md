@@ -1,6 +1,3 @@
-Here's an updated README that details your project’s purpose, structure, setup, and usage:
-
----
 
 # Dynamic Landing Page
 
